@@ -1,0 +1,11 @@
+E:\Kurs C#\ProjektStarsoft\JustAnAdventure\JustAnAdventure\bin\Debug\JustAnAdventure.exe.config
+E:\Kurs C#\ProjektStarsoft\JustAnAdventure\JustAnAdventure\bin\Debug\JustAnAdventure.exe
+E:\Kurs C#\ProjektStarsoft\JustAnAdventure\JustAnAdventure\bin\Debug\JustAnAdventure.pdb
+E:\Kurs C#\ProjektStarsoft\JustAnAdventure\JustAnAdventure\bin\Debug\Engine.dll
+E:\Kurs C#\ProjektStarsoft\JustAnAdventure\JustAnAdventure\bin\Debug\Engine.pdb
+E:\Kurs C#\ProjektStarsoft\JustAnAdventure\JustAnAdventure\obj\Debug\JustAnAdventure.csprojResolveAssemblyReference.cache
+E:\Kurs C#\ProjektStarsoft\JustAnAdventure\JustAnAdventure\obj\Debug\JustAnAdventure.JustAnAdventure.resources
+E:\Kurs C#\ProjektStarsoft\JustAnAdventure\JustAnAdventure\obj\Debug\JustAnAdventure.Properties.Resources.resources
+E:\Kurs C#\ProjektStarsoft\JustAnAdventure\JustAnAdventure\obj\Debug\JustAnAdventure.csproj.GenerateResource.Cache
+E:\Kurs C#\ProjektStarsoft\JustAnAdventure\JustAnAdventure\obj\Debug\JustAnAdventure.exe
+E:\Kurs C#\ProjektStarsoft\JustAnAdventure\JustAnAdventure\obj\Debug\JustAnAdventure.pdb
